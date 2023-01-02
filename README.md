@@ -8,4 +8,4 @@ I am an epidemiologists primarily working in infectious diseases, causal inferen
 - 💬 Ask me about: M-estimation
 - 😄 Pronouns: he/him/his
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pzivich)](https://github.com/anuraghazra/github-readme-stats)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pzivich&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
